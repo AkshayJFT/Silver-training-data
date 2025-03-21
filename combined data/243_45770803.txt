@@ -1,0 +1,13 @@
+Title: Section 18 in The Copyright (Amendment) Act, 2012
+URL: https://indiankanoon.org/doc/45770803/
+Date Extracted: 2025-03-17 17:53:12
+
+--------------------------------------------------------------------------------
+
+[Cites 0, Cited by 5]
+[Entire Act]
+User Queries
+accession
+Union of India - Section
+Section 18 in The Copyright (Amendment) Act, 2012
+18. The Authority noted that OCLSs provide access to other ILDOs to access/interconnect the bandwidth available on the submarine cable which may not be owned by the OCLS. For this access facilitation some network elements are installed by the OCLS which get interconnected to the submarine cable bandwidth on one side and the equipment of the access seekers on the other side. The 'utilisation factor' in the context of AFC refers to the capacity utilisation for recovery of the cost of the network installed specifically for the purpose of Access Facilitation for other ILDOs.

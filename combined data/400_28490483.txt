@@ -1,0 +1,11 @@
+Title: Section 19 in The Copyright (Amendment) Act, 2012
+URL: https://indiankanoon.org/doc/28490483/
+Date Extracted: 2025-03-17 17:54:40
+
+--------------------------------------------------------------------------------
+
+[Cites 0, Cited by 5]
+[Entire Act]
+Union of India - Section
+Section 19 in The Copyright (Amendment) Act, 2012
+19. It is worthwhile to mention here that the Cable Landing Stations are set-up by OCLSs to primarily cater to the international communication requirement of its own customers using their own bandwidth in the submarine cable. The major component of cost of the CLS which includes the equipment used for terminating the submarine cable in the Cable Landing Station is borne by the consortium and the same is not the subject matter of present consultation or the principal regulations. The Access facilitation provided to other ILDOs is one of the activities of the OCLSs. In fact data submitted by M/s Bharti Airtel shows that the percentage of activated capacity for other ILDOs is merely 2-16% of the total activated capacity in all the CLSs owned by it. Similarly, data furnished by M/s TCL suggests that for five CLSs owned by them, the activated capacity for other ILDOs is nil. Therefore, the low utilisation of submarine cables landing at CLS as has been submitted by M/s Bharti Airtel is not relevant.
